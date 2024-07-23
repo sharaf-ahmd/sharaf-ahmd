@@ -1,7 +1,7 @@
 <div align="center">
     <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Sharaf+Ahamed!;&center=true&size=30&color=444054">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Sharaf+Ahamed!;&center=true&size=30&color=63595c">
   </a>
     </h1>
 </div>
@@ -25,3 +25,12 @@ I'm keen to connect with professionals, mentors, and fellow data science enthusi
 <a href="https://x.com/sharafahamed_?s=11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharafahamed" height="30" width="40" /></a>
 
 </p>
+
+<br>
+
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=sharaf-ahmd&theme=github_dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=sharaf-ahmd&theme=github_dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=sharaf-ahmd&theme=github_dark&show_icons=true&hide_border=true&layout=compact' />
+
+
+
