@@ -5,7 +5,7 @@
   </a>
     </h1>
 </div>
-<h3 align="center"> Data Science Undergraduate </h3>
+<h1 align="center"> Data Science Undergraduate </h1>
 <div align="center"><img src="33.jpg"></img></div>
 
 
