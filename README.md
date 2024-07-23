@@ -8,7 +8,5 @@
     </h1>
 </div>
 <h3 align="center"> Data Science Undergraduate </h3>
-<div align="center"><img src="AI2.jpg"></img></div>
+<div align="center" height="50%"><img src="AI2.jpg"></img></div>
 
-<h3 align="center">A Passionate Computer Science Undergraduate diving into Full Stack Development.</h3>
-<div align="center"><img src="Full Stack Developer.png"></img></div>
