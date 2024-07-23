@@ -8,5 +8,5 @@
     </h1>
 </div>
 <h3 align="center"> Data Science Undergraduate </h3>
-<div align="center" height="50%"><img src="AI2.jpg"></img></div>
+<div align="center" height="50%"><img src="ai.jpg"></img></div>
 
