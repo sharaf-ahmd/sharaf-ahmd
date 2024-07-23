@@ -18,3 +18,13 @@ I have completed diplomas in software engineering and web engineering, I had the
 
 ## 🌱 Growth & Goals
 It is a never-ending curiosity in the field of data science. I have worked in several projects to improve my literacy in this realm. My goal is to continuously expand my skill set, embracing both the technical and ethical challenges that come with big data and AI. I believe that data-driven strategies can significantly improve lives and sustainability.
+
+## 🤝 Let's Connect!
+I'm keen to connect with professionals, mentors, and fellow data science enthusiasts. Whether it's discussing the latest trends in machine learning, sharing insights from recent projects, or exploring potential collaborations, I believe in the power of community and networking to drive progress. Feel free to reach out if you're interested in connecting!
+
+<p align="left">
+<a href="https://lk.linkedin.com/in/sharaf-ahamed-596573291?original_referer=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqdhas ali" height="30" width="40" /></a>
+<a href="https://x.com/sharafahamed_?s=11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="aqdhas07" height="30" width="40" /></a>
+<a href="https://fb.com/aqdhas ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aqdhas ali" height="30" width="40" /></a>
+<a href="https://instagram.com/_aqdhas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aqdhas" height="30" width="40" /></a>
+</p>
