@@ -6,7 +6,7 @@
     </h1>
 </div>
 <h3 align="center"> Data Science Undergraduate </h3>
-<div align="center"><img src="22.jpg"></img></div>
+<div align="center"><img src="33.jpg"></img></div>
 
 
 ## 🚀 About Me
