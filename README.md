@@ -1,37 +1,183 @@
-<div align="center">
-    <h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I+am+Sharaf+Ahamed!;&center=true&size=30&color=63595c">
-  </a>
-    </h1>
-</div>
-<h1 align="center"> Data Science Undergraduate </h1>
-<div align="center"><img src="33.jpg"></img></div>
 
-
-## 🚀 About Me
-Hello! I’m Sharaf Ahamed, an enthusiastic Data science undergraduate at SLIIT, with the passion for turning complex data into valuable insights and building sophisticated machine learning models that drive decision-making and innovation. With a foundational knowledge in software engineering and web engineering, I’m intrigued to explore world of data science and artificial intelligence and contribute to solutions that have significant real- world impacts.
-
-## 📚 Education & Learning
-I have completed diplomas in software engineering and web engineering, I had the opportunity to indulge myself into complex software designing and developing projects with the knowledge that I have acquired from my diplomas. Currently I’m Pursuing my BSc (Hons) in information technology-Data Science, studying the technology to turn complex data into actionable insights. My education has not just been about acquiring technical skills; it has been a journey in critical thinking, problem-solving and application of theoretical knowledge into practical solutions.
-
-## 🌱 Growth & Goals
-It is a never-ending curiosity in the field of data science. I have worked in several projects to improve my literacy in this realm. My goal is to continuously expand my skill set, embracing both the technical and ethical challenges that come with big data and AI. I believe that data-driven strategies can significantly improve lives and sustainability.
-
-## 🤝 Let's Connect!
-I'm keen to connect with professionals, mentors, and fellow data science enthusiasts. Whether it's discussing the latest trends in machine learning, sharing insights from recent projects, or exploring potential collaborations, I believe in the power of community and networking to drive progress. Feel free to reach out if you're interested in connecting!
-
-<p align="left">
-<a href="https://lk.linkedin.com/in/sharaf-ahamed-596573291?original_referer=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharafahamed" height="30" width="40" /></a>
-<a href="https://x.com/sharafahamed_?s=11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharafahamed" height="30" width="40" /></a>
-
-</p>
-
+<h1 align="center">Hi 👋, I'm I’m Sharaf Ahamed</h1>
+<h3 align="center">Undergraduate | Data Scientist | AI/ML Enthusiast </h3>
+<h3 align="center">Hello! I’m Sharaf Ahamed, an enthusiastic Data science undergraduate at SLIIT, with the passion for turning complex data into valuable insights and building sophisticated machine learning models that drive decision-making and innovation. With a foundational knowledge in software engineering and web engineering, I’m intrigued to explore world of data science and artificial intelligence and contribute to solutions that have significant real- world impacts.
+</h3>
+📫 Reach me at sharaf.ams.11@gmail.com 
 <br>
+<br>
+ <a href="https://lk.linkedin.com/in/sharaf-ahamed-596573291?original_referer"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="c logo"  /><a/>
+ 
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=sharaf-ahmd&theme=github_dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=sharaf-ahmd&theme=github_dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=sharaf-ahmd&theme=github_dark&show_icons=true&hide_border=true&layout=compact' />
+###
+
+<h2 align="left">Programming Languages</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+ <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+</div>
+
+###
+
+<h2 align="left">Frontend Development</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+ 
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h2 align="left">Backend Development</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  
+   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+ 
+ 
+          
+          
+
+</div>
+
+###
+
+<h2 align="left">Mobile App Development</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<h2 align="left">AI / ML</h2>
+
+###
+
+<div align="left">
+    <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+   <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="40px" />
+<img width="12" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<img width="12" />
+  <img width="40px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />      
+<img width="12" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />    
+<img width="12" />
+   
+
+</div>
+
+###
+
+<h2 align="left">Database</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+
+  <img width="12" />
+  
+  
+</div>
+
+###
 
 
+<h2 align="left">Softwares</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rstudioide/75AADB" height="40" alt="rstudio logo" />
+ <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Anaconda_Logo.png" />
+<img width="12" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img width="12" />
+<img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Cisco_logo_blue_2016.svg" />
+<img width="12" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img width="12" />
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img width="12" />
+
+
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharaf-ahmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharaf-ahmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sharaf-ahmd/count.svg?" />
+</div>
+
+###
 
